@@ -9,7 +9,7 @@ This is a modified dataset from kaggle for a facebook campaign.
 
 ### Data:
 
-The inicial data was downloaded from https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign and aditional information was added.
+The inicial data was downloaded from [here](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign) and aditional information was added.
 
 
 ## Methods
@@ -17,7 +17,7 @@ The inicial data was downloaded from https://www.kaggle.com/datasets/madislemsal
 - Kmeans clustering (unsupervised learning) was applied.  
 - Inertia and silhouette score were used to define the best number of clusters.
 - Vizualizations were done to better answer our questions.
-- A looker dash board was also developed.
+- A Looker dashboard was also developed [link](https://lookerstudio.google.com/reporting/0492ebc0-5752-47ba-b130-c90a63b7655e)
 
 
 ## Results
